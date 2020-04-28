@@ -1,0 +1,12 @@
+.nav{
+  grid-area: n;
+  background: burlywood;
+}
+
+.profSidebar{
+  background: darkcyan;
+  width: 100%;
+  display: flex;
+  margin: 0 auto;
+  margin-top: 30px;
+}

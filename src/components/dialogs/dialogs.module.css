@@ -1,0 +1,15 @@
+.dialogs_block{
+    padding: 5px;
+    background: red;
+}
+
+.block_ms{
+    width: 100%;
+    display: flex;
+    background: gray;
+}
+.suka2{
+    background: #eaeaea;
+    width: 100%;
+    margin: 10px;
+}

@@ -1,0 +1,13 @@
+.content{
+ grid-area: c;
+ background: blue;
+}
+.img_content img{
+  width: 100%;
+
+}
+.ava_decr img{
+	width: 130px;
+	padding: 8px;
+	background: yellow;
+}

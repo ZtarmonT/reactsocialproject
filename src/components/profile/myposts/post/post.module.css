@@ -1,0 +1,25 @@
+
+.img_content img{
+  width: 100%;
+
+}
+.new_posts{
+	color: white;
+	padding: 10px;
+	background: gray;
+	margin-top: 15px;
+	display: flex;
+}
+.left_img img {
+	width: 70px;
+	padding: 5px;
+	background: white;
+}
+
+.text_post{
+	padding: 8px;
+	background: orangered;
+	font-size: 10px;
+	font-weight: bold;
+	color: white;
+}
